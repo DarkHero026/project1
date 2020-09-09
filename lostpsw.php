@@ -8,7 +8,7 @@
 
         <form action="login.php" method="get">
             <h4>Fill in your E-mail or Username</h4>
-            <input type="email" name="getEmail" placeholder="e-mail or username">
+            <input type="email" name="getEmail" placeholder="e-mail or username" required>
             <button type="submitLost">Send</button>
         </form>
 
