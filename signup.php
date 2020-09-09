@@ -14,7 +14,7 @@
                 <input type="text" name="userName" placeholder="Username" required><br>
                 <input type="password" name="pass" placeholder="Password" required><br>
                 <input type="password" name="rPass" placeholder="Confirm password" required><br>
-                <button type="submit" name="submit">Sign up</button>
+                <input type="submit" name="submit" value="Sign up">
             </form>
         </main>
     </body>

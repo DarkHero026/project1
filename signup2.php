@@ -25,7 +25,7 @@ if($_POST["pass"] === $_POST["rPass"]){
         echo "Username: ".$email."<br>";
         echo "Password: ".$pass."<br>";
 }else{
-    echo "Failed. Redo password";
+    echo "Task Failed."." Please confirm password again.";
 }
 
 
